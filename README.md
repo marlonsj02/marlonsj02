@@ -10,7 +10,7 @@ _A obtenção de novos conhecimentos e competências é o meu foco._
 <?php
   class **Marlon** {
    $name = "Marlon Sant' Anna de Jesus"
-   $acknowledgements = "Desenvolvedor Web"
+   $acknowledgements = "Desenvolvimento Web"
 
    $primarySkillset = "HTML, CSS, Bootstrap, Git, Flexbox"
    $languages = array("Javascript", "PHP", "SQL") 
